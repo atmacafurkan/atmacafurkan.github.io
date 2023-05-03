@@ -1,5 +1,4 @@
 menu:
-- {name: 'cv', url: '/cv'}
 
 social:
 - {icon: 'github', link: 'https://github.com/atmacafurkan'}
