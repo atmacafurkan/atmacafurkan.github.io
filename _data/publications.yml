@@ -1,6 +1,6 @@
 featured:
-- {name: 'showcase, trial', url: '/publications/1501.07274.pdf'}
+- {name: 'Türk, U., Atmaca, F., Özateş, Ş.B. et al. Resources for Turkish dependency parsing: introducing the BOUN Treebank and the BoAT annotation tool. **Lang Resources & Evaluation** 56, 259–307 (2022).', url: 'https://doi.org/10.1007/s10579-021-09558-0'}
 
 index:
-- {name: 'showcase, trial', url: '/publications/1501.07274.pdf'}
+- {name: 'Türk, U., Atmaca, F., Özateş, Ş.B. et al. Resources for Turkish dependency parsing: introducing the BOUN Treebank and the BoAT annotation tool. **Lang Resources & Evaluation** 56, 259–307 (2022).', url: 'https://doi.org/10.1007/s10579-021-09558-0'}
 - {name: 'publications', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
