@@ -2,3 +2,11 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
+
+social:
+- {icon: 'github', link: 'https://github.com/atmacafurkan'}
+- {icon: 'twitter', link: 'https://twitter.com/furkan_atmaca'}
+
+
+contacts:
+- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Universität Leipzig', email: 'furkan.atmaca@uni-leipzig.de', image: 'assets/img/profile.jpg'}
