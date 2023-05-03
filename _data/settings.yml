@@ -9,4 +9,4 @@ social:
 
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Universität Leipzig', email: 'furkan.atmaca@uni-leipzig.de', image: 'assets/img/profile.jpg'}
+- {name: 'Dr. Academia', department: 'Physics & Astronomy', institution: 'Universität Leipzig', email: 'furkan.atmaca@uni-leipzig.de', image: 'assets/img/profile.jpg'}
