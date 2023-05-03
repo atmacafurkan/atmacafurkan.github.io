@@ -1,6 +1,6 @@
 featured:
-- {name: 'showcase', url: '/publications/1501.07274.pdf'}
+- {name: 'showcase, trial', url: '/publications/1501.07274.pdf'}
 
 index:
-- {name: 'showcase', url: '/publications/1501.07274.pdf'}
+- {name: 'showcase, trial', url: '/publications/1501.07274.pdf'}
 - {name: 'publications', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
