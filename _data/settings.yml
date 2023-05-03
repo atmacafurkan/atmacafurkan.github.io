@@ -7,6 +7,5 @@ social:
 - {icon: 'github', link: 'https://github.com/atmacafurkan'}
 - {icon: 'twitter', link: 'https://twitter.com/furkan_atmaca'}
 
-
 contacts:
-- {name: 'Dr. Academia', department: 'Physics & Astronomy', institution: 'Universität Leipzig', email: 'furkan.atmaca@uni-leipzig.de', image: 'assets/img/profile.jpg'}
+- {name: 'Me', department: 'Linguistics', institution: 'Universität Leipzig', email: 'furkan.atmaca@uni-leipzig.de', image: 'assets/img/profile.jpg'}
