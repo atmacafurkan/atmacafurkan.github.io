@@ -2,6 +2,10 @@ featured:
 - {name: 'Onur Keleş, Furkan Atmaca & Kadir Gökgöz (2022) Effects of age of acquisition and category size on signed verbal fluency, Language Acquisition, 29:4, 361-383', url: 'https://doi.org/10.1080/10489223.2021.2023814'}
 - {name: 'Türk, U., Atmaca, F., Özateş, Ş.B. et al. (2022) Resources for Turkish dependency parsing: introducing the BOUN Treebank and the BoAT annotation tool. Lang Resources & Evaluation 56, 259–307.', url: 'https://doi.org/10.1007/s10579-021-09558-0'}
 - {name: 'Atmaca, F. (2022). Suspended Affixation needs no morphological word: The suffix-(y)Ip. In Proceedings of the Workshop on Turkic and Languages in Contact with Turkic (Vol. 6, No. 1, p. 5035)', url: 'https://doi.org/10.3765/ptu.v6i1.5035'}
+- {name: 'Atmaca, F. (2021). Compositional Analysis of Turkish Agent Nominalizers. In Proceedings of the Workshop on Turkic and Languages in Contact with Turkic (Vol. 5, No. 1, pp. 16-25).', url: 'https://doi.org/10.3765/ptu.v5i1.4767'}
+- {name: 'Türk, U., Atmaca, F., Özateş, Ş. B., Başaran, B. Ö., Güngör, T., & Özgür, A. (2019). Improving the annotations in the Turkish universal Dependency Treebank. In Proceedings of the third workshop on universal dependencies (UDW, SyntaxFest 2019) (pp. 108-115).', url: 'https://aclanthology.org/W19-8013.pdf'}
+- {name: 'Türk, U., Atmaca, F., Özateş, Ş. B., Köksal, A., Başaran, B. Ö., Güngör, T., & Özgür, A. (2019). Turkish treebanking: Unifying and constructing efforts. In Proceedings of the 13th linguistic annotation workshop (pp. 166-177).', url: 'http://dx.doi.org/10.18653/v1/W19-4019'}
+- {name: 'Atmaca, F. (2021). Dative Ablative Alternation in Turkish: The Role of Aspect. In Proceedings of the 15th Workshop on Altaic Formal Linguistics (pp. 1-15)', url: './publications/wafl15recreate.pdf'}
 
 index:
 - {name: 'Onur Keleş, Furkan Atmaca & Kadir Gökgöz (2022) Effects of age of acquisition and category size on signed verbal fluency, Language Acquisition, 29:4, 361-383', url: 'https://doi.org/10.1080/10489223.2021.2023814'}

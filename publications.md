@@ -1,4 +1,4 @@
 ---
 layout: publications
-title: "Selected publications"
+title: "Publications"
 ---
