@@ -9,9 +9,11 @@ layout: default
   </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/assets/img/profile.jpg" alt="Home" width="100%">
+	<center>
 	{% for item in site.data.settings.social %}
         <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
       {% endfor %}
+	<\center>  
   </div>
 
 {% include publications.html %}
