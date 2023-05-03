@@ -3,6 +3,7 @@ menu:
 social:
 - {icon: 'github', link: 'https://github.com/atmacafurkan'}
 - {icon: 'twitter', link: 'https://twitter.com/furkan_atmaca'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0003-4248-7059'}
 
 contacts:
 - {name: 'Me', department: 'Linguistics', institution: 'Universität Leipzig', phone: -, office: -, email: 'furkan.atmaca@uni-leipzig.de', image: 'assets/img/profile.jpg'}
